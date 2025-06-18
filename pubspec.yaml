@@ -1,0 +1,16 @@
+
+name: flutter_id_scanner_full_poc
+description: PoC app to scan ID, simulate Yaqeen, select vehicle, and show quote.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_ml_kit: ^0.13.0
+  image_picker: ^0.8.5
+
+flutter:
+  uses-material-design: true
