@@ -1,6 +1,6 @@
 
 name: flutter_id_scanner_full_poc
-description: PoC app to scan ID, simulate Yaqeen, select vehicle, and show quote.
+description: A full Flutter PoC app with platform folders.
 version: 1.0.0+1
 
 environment:
